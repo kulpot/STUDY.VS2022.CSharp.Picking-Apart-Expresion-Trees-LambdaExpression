@@ -4,8 +4,8 @@ using System.Reflection.Emit;
 
 //ref link:https://www.youtube.com/watch?v=K_8OAHEC73I&list=PLRwVmtr-pp06SlwcsqhreZ2byuozdnPlg&index=8
 //  lambda expression vs compiler converter lambda method
-// C# -> MSIL -> JIT -> Native
-
+// C# -> MSIL -> JIT -> Native 
+//
 
 
 class MainClass
